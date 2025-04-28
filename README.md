@@ -1,4 +1,10 @@
-@[toc]
+## Contents
+[Install](#Install)
+[]()
+[]()
+[]()
+[]()
+[]()
 ## Install
 1. Clone this repository and navigate to LLaVA-GRL folder
 ```
