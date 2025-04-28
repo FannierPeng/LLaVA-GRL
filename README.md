@@ -4,8 +4,11 @@
 *[Dataset](#Dataset)
 
 *[LLaVA-1.5 Checkpoints](#LLaVA-1.5 pre-trained checkpoints)
+
 *[Inference](#Example of Inference Script)
+
 *[Train](#Example of Training Script)
+
 ## Install
 1. Clone this repository and navigate to LLaVA-GRL folder
 ```
